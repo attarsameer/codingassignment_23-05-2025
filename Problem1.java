@@ -1,3 +1,6 @@
+// 1. Two Sum II - Input array is sorted
+//Given a sorted array of integers, return the indices of the two numbers such that they add up to a specific target.
+
 import java.util.*;
 
 public class Problem1 {

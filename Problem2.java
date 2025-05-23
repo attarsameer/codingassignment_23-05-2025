@@ -1,4 +1,5 @@
-
+// 2. Subarray Sum Equals K
+// Given an array of integers and a target sum k, return the total number of continuous subarrays whose sum equals to k.
 import java.util.*;
 public class Problem2{
 	public static void main(String[] args) {
